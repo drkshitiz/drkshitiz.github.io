@@ -1,4 +1,4 @@
-# git commands important
+# git commands
 git clone <url>
 git add <fileName>
 git commit -m "message"
