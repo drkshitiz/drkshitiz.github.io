@@ -1,4 +1,4 @@
-# git commands
+# git commands 101
 git clone <url>
 git add <fileName>
 git commit -m "message"
