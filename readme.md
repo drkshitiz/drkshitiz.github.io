@@ -1,7 +1,11 @@
 # git commands
-git clone github-link
-git add fileName
+git clone <url>
+git add <fileName>
 git commit -m "message"
 git status
-git log
-git re
+git push
+git pull
+  Merge conflicts
+  git log
+git reset --hard <commitID>
+  git reset --hard origin/master
