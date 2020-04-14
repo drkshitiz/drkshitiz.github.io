@@ -79,3 +79,5 @@ Add image:
 </html>
 ```
 * To find hexvalue of the color we need, just google "html color picker", the google search results will show a slider for finding the hexvalue or rgb value of any color.
+### Properties which can be added in div tags to position different elements in a webpage
+Margin:30px; padding:20px; font-size:28px; font-weight: bold;font-family:Arial, sans-serif; border: 3px solid blue;
