@@ -10,7 +10,7 @@ Merge conflicts
 git log
 git reset --hard <commitID>
 git reset --hard origin/master
-git commit --amend -m "new commit message" 
+git commit --amend -m "new commit message"
 
 ## HTML
 ```html
@@ -33,13 +33,14 @@ An ordered list:
   <li>item-2</li>
   <li>item-3</li>
 </ol>
-
 An unordered list:
 <ul>
   <li>item-1</li>
   <li>item-2</li>
   <li>item-3</li>
 </ul>
-
+Add image:
+<img src = "dog.jpg">
+</body>
 </html>
 ```
