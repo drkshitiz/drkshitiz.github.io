@@ -1,9 +1,9 @@
 # Web Development using Python and Javascript
 ## git commands
 
-git clone <url>
+git clone url
 
-git add <fileName>
+git add fileName
 
 git commit -m "message"
 
