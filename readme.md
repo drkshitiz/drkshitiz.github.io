@@ -40,7 +40,7 @@ An unordered list:
   <li>item-3</li>
 </ul>
 Add image:
-<img src = "dog.jpg">
+<img src = "dog.jpg" height = "200" width = "300"> [If we want to maintain the aspect ratio of the image, add only one attribute, either height or width.]
 </body>
 </html>
 ```
