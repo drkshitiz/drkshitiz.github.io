@@ -1,5 +1,6 @@
 # Web Development using Python and Javascript
 ## git commands
+
 git clone <url>
 git add <fileName>
 git commit -m "message"
@@ -13,6 +14,7 @@ git reset --hard origin/master
 git commit --amend -m "new commit message"
 
 ## HTML
+
 ```html
 <!DOCTYPE html>
 <html>
