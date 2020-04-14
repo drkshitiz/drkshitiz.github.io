@@ -78,4 +78,4 @@ Add image:
 
 </html>
 ```
-* To find hexvalue of the color we need, just google "html color picker", the google search results will show a slider for finding the hexvalue or rgb value of any color".
+* To find hexvalue of the color we need, just google "html color picker", the google search results will show a slider for finding the hexvalue or rgb value of any color.
