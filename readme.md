@@ -2,15 +2,25 @@
 ## git commands
 
 git clone <url>
+
 git add <fileName>
+
 git commit -m "message"
+
 git status
+
 git push
+
 git pull
-Merge conflicts
+
+* To merge conflicts after a pull request, open the file in text editor and keep what you need and remove everything else.
+
 git log
+
 git reset --hard <commitID>
+
 git reset --hard origin/master
+
 git commit --amend -m "new commit message"
 
 ## HTML
