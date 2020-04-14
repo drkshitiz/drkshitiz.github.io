@@ -55,8 +55,6 @@ Add image:
 <img src = "dog.jpg" height = "200" width = "300">
 [If we want to maintain the aspect ratio of the image, add only one attribute, either height or width.]
 <img src="dog.jpg" width="50%"">
-
-
 <form>
 <input type="text" placeholder="Full Name" name="name">
 <button>Submit!</button>
@@ -64,3 +62,20 @@ Add image:
 </body>
 </html>
 ```
+
+## CSS (Make  webpages look nicer)
+```CSS
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Web Page!</title>
+</head>
+<body>
+<h1 style = "color:#0c8e05;text-align:center;">Welcome to my webpage</h1>
+<p>Hello,world!</p>
+<p>This is my webpage</p>
+</body>
+
+</html>
+```
+* To find hexvalue of the color we need, just google "html color picker", the google search results will show a slider for finding the hexvalue or rgb value of any color".
